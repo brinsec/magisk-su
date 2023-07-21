@@ -2,11 +2,7 @@
 这是一个总结magisk的地方，
 为了虚拟机装app的，过虚拟机加root
 参考
-https://github.com/HuskyDG/magisk-files
-https://github.com/Fox2Code/FoxMagiskModuleManager
-https://github.com/cxf-boluo/magisk_All
-https://github.com/byxiaorun/Ruru
-https://github.com/LSPosed/LSPosed/releases
+
 ​ Magisk和隐藏root模块以及部分玩机模块玩机软件发布地址(下载地址)汇总
 
 
@@ -198,3 +194,15 @@ https://github.com/HuskyDG/MagiskHide/releases
 SELinuxModeChanger(一个切换SELinux状态的软件)发布地址：
 
 https://github.com/MrBIMC/SELinuxModeChanger/releases
+
+
+
+https://github.com/HuskyDG/magisk-files
+
+https://github.com/Fox2Code/FoxMagiskModuleManager
+
+https://github.com/cxf-boluo/magisk_All
+
+https://github.com/byxiaorun/Ruru
+
+https://github.com/LSPosed/LSPosed/releases
